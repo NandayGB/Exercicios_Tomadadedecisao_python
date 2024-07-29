@@ -17,3 +17,5 @@ while True:
         break  # Sai do loop se a nota for válida
     else:
         print("Valor inválido. A nota deve estar entre 0 e 10. Tente novamente.")
+
+        
